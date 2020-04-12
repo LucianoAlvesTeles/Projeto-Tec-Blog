@@ -1,6 +1,6 @@
 <img src="imagens/logo.PNG">
 <h1>Projeto-TecBlog</h1>
-<p>Projeto <strong>TecBlog</strong> Desenvolvido durante o curso "Desenvolvimento Web Completo 2020" ministrado por  Jorge Sant Ana e Jamilton Damasceno por meio da plataforma de ensino da <a href ="https://www.udemy.com/">Udemy<a></p>
+<p>O projeto <strong>TecBlog</strong> foi desenvolvido durante o curso "Desenvolvimento Web Completo 2020" ministrado por  Jorge Sant Ana e Jamilton Damasceno por meio da plataforma de ensino <a href ="https://www.udemy.com/">Udemy.<a></p>
 
 ## 💻 Front-end
 
